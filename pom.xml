@@ -26,7 +26,7 @@
     <!--通过写标签的方式，下面用$调用方便以后改代码-->
     <scala.version>2.11.8</scala.version>
     <spark.version>2.1.0</spark.version>
-    <hadoop.version>2.6.0</hadoop.version>
+    <hadoop.version>2.7.0</hadoop.version>
   </properties>
 
   <dependencies>
